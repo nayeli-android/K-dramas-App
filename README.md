@@ -1,5 +1,9 @@
 # K-dramas-App
 
+## Revisiones de prueba
+
+Las observaciones de la prueba de `v1.1.0` están en [REVISIONES-KDRAMA.md](REVISIONES-KDRAMA.md). Están pendientes de comprobar con la versión más reciente.
+
 ## 1. ¿Cómo descargar e instalar el APK?
 1. Dirígete a la sección de **Releases** en la barra lateral derecha de este repositorio en GitHub.
 2. Descarga la versión más reciente del archivo `.apk`.
